@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itPDF"
+        android:title="In PDF"/>
+
+    <item
+        android:title="In Excel"
+        android:id="@+id/itExcel"/>
+
+    <item
+        android:id="@+id/itChart"
+        android:title="Biểu đồ"/>
+</menu>

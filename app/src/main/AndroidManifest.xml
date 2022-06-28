@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.detaigiuaki">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-feature android:name="android.hardware.camera"
+        android:required="true" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Nhom19_BaoCaoGiuaKi"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@style/Theme.Nhom12_GiuaKy"
+        android:supportsRtl="true">
+
+        <activity
+            android:name=".activity.ChartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.GuiMailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.ThemGiaoVienActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.QLGiaoVienActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.TTMHUpdateActivity"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name=".activity.TTChamBaiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MonHocActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.QLMonHocActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.QLPhieuChamBaiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PhieuChamBaiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.UpDatePhieuChamBai"
+            android:exported="false" />
+        <activity
+            android:name=".activity.ThemUpdateTTCBActitity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.QLNguoiDungActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.DoiMatKhauActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SendOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.VerifyOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="false">
+
+        </activity>
+
+
+    </application>
+
+</manifest>

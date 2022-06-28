@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Nhom12_GiuaKy</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="inputAccount">Nhập tên tài khoản</string>
+    <string name="inputPassword">Nhập mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="title">QUẢN LÝ CHẤM BÀI</string>
+    <string name="titleDSMH">DANH SÁCH MÔN HỌC</string>
+    <string name="add">ADD</string>
+    <string name="Add">THÊM</string>
+    <string name="save">Lưu</string>
+    <string name="titleTTChamBai">Thông tin chấm bài</string>
+    <string name="titleDSGV">DANH SÁCH GIÁO VIÊN</string>
+    <string name="titlePhieuChamBai">DANH SÁCH PHIẾU CHẤM BÀI</string>
+    <string name="s_a">Sửa</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_otp_on_this_mobile_number">We will send you an OTP on this mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="_84">+84-</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">VERIFY</string>
+    <string name="reset_password">Reset Password</string>
+</resources>

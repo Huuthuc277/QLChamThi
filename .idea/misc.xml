@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26615384615384613" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.26666666666666666" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.26666666666666666" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/ic_baseline_password.xml" value="0.26256410256410256" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.26256410256410256" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/ic_baseline_subject_24.xml" value="0.26256410256410256" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26615384615384613" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/round_button.xml" value="0.26615384615384613" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/drawable/round_text.xml" value="0.26256410256410256" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout-w936dp/layout_itemphieuchambai.xml" value="0.176" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout-w936dp/layout_phieuchambai.xml" value="0.187890625" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_mon_hoc.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_phieuchambai.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_qlgiao_vien.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_qlmon_hoc.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_them_giao_vien.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_them_phieuchambai.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_themupdate_ttchambai.xml" value="0.264" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_ttcham_bai.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_ttchambai.xml" value="0.264" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_ttmhupdate.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/activity_update_phieuchambai.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/layout_item_giaovien.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/layout_item_monhoc.xml" value="0.536" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/layout_item_ttchambai.xml" value="0.536" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/layout_itemphieuchambai.xml" value="0.4" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/layout_popupmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/layout/test.xml" value="0.25052083333333336" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKi/app/src/main/res/menu/popupmenu_pcb.xml" value="0.24537037037037038" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/drawable-anydpi/ic_detail.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/drawable/background_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/drawable/button_background_color.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/drawable/round_button.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/drawable/round_text.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout-w936dp/activity_verify_otpactivity.xml" value="0.2" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_chart.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_doimatkhau.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_guimail.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_phieuchambai.xml" value="0.264" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_qlgiao_vien.xml" value="0.264" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_qlmon_hoc.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_qlnguoidung.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_send_otpactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_them_giao_vien.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_them_phieuchambai.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_themupdate_ttchambai.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_ttchambai.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_ttmhupdate.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_update_phieuchambai.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_verify_otpactivity.xml" value="0.2" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_custom_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_giaovien.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_monhoc.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_nguoidung.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_ttchambai.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_itemphieuchambai.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/menu/menu_baocao.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/menu/popupmenu_doianh.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/DeTaiGiuaKiFinal/app/src/main/res/menu/popupmenu_pcb.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_chart.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_doimatkhau.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_guimail.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_mon_hoc.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_phieuchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_qlgiao_vien.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_qlmon_hoc.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_qlnguoidung.xml" value="0.22" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_send_otpactivity.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_them_giao_vien.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_them_phieuchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_themupdate_ttchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_ttchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_ttmhupdate.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_update_phieuchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/activity_verify_otpactivity.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_custom_spinner.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_giaovien.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_monhoc.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_nguoidung.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_item_ttchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/layout_itemphieuchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/layout/test.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/menu/menu_baocao.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/menu/popupmenu_doianh.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/menu/popupmenu_pcb.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/GMT/Downloads/DeTaiGiuaKiFinal/DeTaiGiuaKiFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.199" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/drawable/colortitle_k.xml" value="0.1945" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/drawable/edittext_background.xml" value="0.131" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/drawable/gradient.xml" value="0.131" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1945" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/drawable/round_button.xml" value="0.131" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/drawable/round_text.xml" value="0.131" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_login.xml" value="0.16304347826086957" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_mon_hoc.xml" value="0.22" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_phieuchambai.xml" value="0.25" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_qlgiao_vien.xml" value="0.18" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_qlmon_hoc.xml" value="0.16304347826086957" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_them_giao_vien.xml" value="0.25" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_them_phieuchambai.xml" value="0.15" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_themupdate_ttchambai.xml" value="0.2" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_ttchambai.xml" value="0.22" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_ttmhupdate.xml" value="0.22" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/activity_update_phieuchambai.xml" value="0.22" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/layout_item_giaovien.xml" value="0.16304347826086957" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/layout_item_monhoc.xml" value="0.2" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/layout_item_ttchambai.xml" value="0.1" />
+        <entry key="..\:/___Nam4HK2___/PTUDDiDong_Mobile_Android/DeTaiGiuaKi/app/src/main/res/layout/layout_itemphieuchambai.xml" value="0.1" />
+        <entry key="..\:/workspaceAndroid/DeTaiGiuaKi/app/src/main/res/layout/layout_item_ttchambai.xml" value="0.19010416666666666" />
+        <entry key="..\:/workspaceAndroid/DeTaiGiuaKi/app/src/main/res/menu/menu_baocao.xml" value="0.20416666666666666" />
+        <entry key="..\:/workspaceAndroid/DeTaiGiuaKi/app/src/main/res/menu/popupmenu_pcb.xml" value="0.18055555555555555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25416666666666665" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
